@@ -15,8 +15,10 @@ The RAG agent operates as follows:
 
 RAG Workflow
 
-![](../worlflow_image/workflow.png)
+<div style="text-align: center;">
 
+<img src="worlflow_image/workflow.png" alt="RAPTOR" style="width:100%; height:auto;">
+</div>
 
 **Routing**: The router decides whether to use the vectorstore (for LLM-related questions) or web search (for other topics).
 
