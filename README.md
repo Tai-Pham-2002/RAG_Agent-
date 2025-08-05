@@ -11,10 +11,6 @@ The RAG agent operates as follows:
 
 
 
-
-
-RAG Workflow
-
 <div style="text-align: center;">
 
 <img src="worlflow_image/workflow.png" alt="RAPTOR" style="width:100%; height:auto;">
