@@ -1,0 +1,10 @@
+langchain
+langchain-nomic
+langchain_community
+tiktoken
+langchainhub
+langgraph
+tavily-python
+langchain-groq
+langchain-tavily==0.2.11
+langchain-ollama==0.3.5
